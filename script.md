@@ -3,7 +3,7 @@ engine: name-name
 chapter: 1
 title: "オグラシア — name-name 機能ショーケース"
 default_bgm: bgm.ogg
-aspect_ratio: "16:9"
+aspect_ratio: "9:16"
 choice_style: "soft"
 font_family: "Klee One, cursive"
 ---
