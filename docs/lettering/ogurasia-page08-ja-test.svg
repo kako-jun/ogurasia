@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="941" height="1672" viewBox="0 0 941 1672">
+  <style>
+    .bubble { fill: white; stroke: #111; stroke-width: 3; }
+    .cover { fill: white; stroke: none; }
+    .tail { fill: white; stroke: #111; stroke-width: 3; stroke-linejoin: round; }
+    .text { fill: #111; font-family: 'Noto Sans CJK JP', 'Noto Sans', sans-serif; font-size: 29px; font-weight: 500; text-anchor: middle; }
+    .small { font-size: 26px; }
+  </style>
+
+  <!-- Cover every generated balloon before redrawing the final lettering layer. -->
+  <ellipse class="cover" cx="135" cy="94" rx="128" ry="82"/>
+  <ellipse class="cover" cx="767" cy="92" rx="126" ry="78"/>
+  <ellipse class="cover" cx="105" cy="590" rx="105" ry="82"/>
+  <ellipse class="cover" cx="850" cy="590" rx="95" ry="72"/>
+  <ellipse class="cover" cx="140" cy="900" rx="100" ry="62"/>
+  <ellipse class="cover" cx="625" cy="890" rx="95" ry="62"/>
+  <ellipse class="cover" cx="475" cy="1235" rx="185" ry="100"/>
+
+  <!-- b1: read first on the right in the Japanese RTL page order. -->
+  <ellipse class="bubble" cx="767" cy="92" rx="108" ry="62"/>
+  <path class="tail" d="M681 142 L625 190 L704 151 Z"/>
+  <text class="text small" x="767" y="87"><tspan x="767" dy="0">Are you fishing</tspan><tspan x="767" dy="38">here?</tspan></text>
+
+  <!-- b2: answer on the left. -->
+  <ellipse class="bubble" cx="135" cy="94" rx="110" ry="66"/>
+  <path class="tail" d="M218 145 L255 185 L202 158 Z"/>
+  <text class="text small" x="135" y="62"><tspan x="135" dy="0">日本語でおk。</tspan><tspan x="135" dy="36">おれ、母親が</tspan><tspan x="135" dy="36">渡来人でさ</tspan></text>
+
+  <!-- b3: boy's long question; the larger redraw gives Japanese and English room. -->
+  <ellipse class="bubble" cx="190" cy="910" rx="160" ry="70"/>
+  <path class="tail" d="M265 969 L300 1010 L245 978 Z"/>
+  <text class="text small" x="190" y="882"><tspan x="190" dy="0">クジラって賢いとは</tspan><tspan x="190" dy="34">聞いてたけど、IQ</tspan><tspan x="190" dy="34">ヤバいの？</tspan></text>
+
+  <!-- b4: Jia's deadpan answer. -->
+  <ellipse class="bubble" cx="685" cy="908" rx="150" ry="62"/>
+  <path class="tail" d="M600 965 L570 1005 L625 976 Z"/>
+  <text class="text small" x="685" y="900"><tspan x="685" dy="0">賢いのでIQなんて</tspan><tspan x="685" dy="36">言わないのさ</tspan></text>
+</svg>

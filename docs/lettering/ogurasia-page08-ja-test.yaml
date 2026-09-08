@@ -1,0 +1,27 @@
+page: 8
+source: ../storyboards/ogurasia-page08-first-dialogue-rough-v02.png
+canvas: [941, 1672]
+direction: rtl
+writing: horizontal
+font: Noto Sans CJK JP Medium
+balloons:
+  - id: b1
+    speaker: jia
+    box: [660, 25, 215, 135]
+    tail: [[660, 145], [625, 190]]
+    text: "Are you fishing here?"
+  - id: b2
+    speaker: boy
+    box: [25, 25, 220, 140]
+    tail: [[220, 145], [255, 185]]
+    text: "日本語でおk。おれ、母親が渡来人でさ"
+  - id: b3
+    speaker: boy
+    box: [35, 850, 315, 145]
+    tail: [[275, 975], [300, 1010]]
+    text: "クジラって賢いとは聞いてたけど、IQヤバいの？"
+  - id: b4
+    speaker: jia
+    box: [535, 850, 300, 125]
+    tail: [[600, 965], [570, 1005]]
+    text: "賢いのでIQなんて言わないのさ"

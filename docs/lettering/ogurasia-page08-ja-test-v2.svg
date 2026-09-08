@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="941" height="1672" viewBox="0 0 941 1672">
+  <style>
+    .cover { fill: white; stroke: none; }
+    .text { fill: #111; font-family: 'Noto Sans CJK JP', 'Noto Sans', sans-serif; font-size: 27px; font-weight: 500; text-anchor: middle; }
+    .compact { font-size: 18px; }
+    .answer { font-size: 21px; }
+  </style>
+
+  <!-- Remove only the unused generated balloons; preserve all original panel art and active balloon lines. -->
+  <rect class="cover" x="8" y="520" width="185" height="160"/>
+  <rect class="cover" x="758" y="520" width="178" height="160"/>
+  <rect class="cover" x="305" y="1155" width="365" height="165"/>
+
+  <!-- Right-side balloon is read first in the RTL page. -->
+  <text class="text" x="767" y="82"><tspan x="767" dy="0">Are you fishing</tspan><tspan x="767" dy="34">here?</tspan></text>
+
+  <!-- Boy's answer in the left balloon. -->
+  <text class="text" x="135" y="60"><tspan x="135" dy="0">日本語でおk。</tspan><tspan x="135" dy="34">おれ、母親が</tspan><tspan x="135" dy="34">渡来人でさ</tspan></text>
+
+  <!-- Existing middle-left balloon: keep the line compact enough to preserve its original contour. -->
+  <text class="text compact" x="140" y="885"><tspan x="140" dy="0">クジラって賢いとは</tspan><tspan x="140" dy="25">聞いてたけど、IQ</tspan><tspan x="140" dy="25">ヤバいの？</tspan></text>
+
+  <!-- Existing middle-right balloon. -->
+  <text class="text answer" x="625" y="890"><tspan x="625" dy="0">賢いのでIQなんて</tspan><tspan x="625" dy="29">言わないのさ</tspan></text>
+</svg>

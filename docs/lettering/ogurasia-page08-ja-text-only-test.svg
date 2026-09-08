@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="941" height="1672" viewBox="0 0 941 1672">
+  <style>
+    .text { fill: #111; stroke: white; stroke-width: 6px; stroke-linejoin: round; paint-order: stroke fill; font-family: 'Noto Sans CJK JP', 'Noto Sans', sans-serif; font-size: 24px; font-weight: 500; text-anchor: middle; }
+    .compact { font-size: 15px; stroke-width: 4px; }
+    .answer { font-size: 18px; stroke-width: 5px; }
+  </style>
+
+  <!-- Transparent text-only layer. The source artwork, panel borders and balloons are untouched. -->
+  <text class="text" x="767" y="82"><tspan x="767" dy="0">Are you fishing</tspan><tspan x="767" dy="31">here?</tspan></text>
+  <text class="text" x="135" y="58"><tspan x="135" dy="0">日本語でおk。</tspan><tspan x="135" dy="30">おれ、母親が</tspan><tspan x="135" dy="30">渡来人でさ</tspan></text>
+
+  <text class="text" x="105" y="583"><tspan x="105" dy="0">クジラ？</tspan></text>
+  <text class="text" x="850" y="583"><tspan x="850" dy="0">さあ？</tspan></text>
+
+  <text class="text compact" x="140" y="878"><tspan x="140" dy="0">クジラって</tspan><tspan x="140" dy="21">賢いとは</tspan><tspan x="140" dy="21">聞いたけど、</tspan></text>
+  <text class="text answer" x="625" y="883"><tspan x="625" dy="0">賢いのでIQ</tspan><tspan x="625" dy="25">なんて言わないのさ</tspan></text>
+
+  <text class="text" x="475" y="1218"><tspan x="475" dy="0">ここのこと、</tspan><tspan x="475" dy="30">知りたい？</tspan></text>
+</svg>
