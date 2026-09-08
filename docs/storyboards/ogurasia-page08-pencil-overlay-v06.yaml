@@ -1,0 +1,28 @@
+page: 8
+experiment: ink-plus-pencil-underdrawing
+status: reproducibility-test
+ink_source: ogurasia-page08-first-dialogue-rough-v06.png
+pencil_source: ogurasia-page08-pencil-underdrawing-v06.png
+composite: ogurasia-page08-ink-plus-pencil-v06.png
+generation:
+  engine: imagegen
+  input_reference: ogurasia-page08-first-dialogue-rough-v06.png
+  instruction: preserve composition and convert the reference into a light graphite construction drawing
+  preserve:
+    - panel boundaries
+    - character identities and poses
+    - fishing rod continuity
+    - empty balloon locations
+    - Jia skin tone and bare torso
+composite_operation:
+  tool: ImageMagick
+  command: "magick ink_source pencil_source -compose multiply -composite composite"
+  purpose: retain original ink lines while adding generated graphite searching lines
+review:
+  succeeded:
+    - original page remains recognizable
+    - graphite double contours and exploratory strokes remain visible
+    - ink and pencil can be reproduced as separate source files
+  next_experiment:
+    - mask or reduce pencil strokes in background and clothing wrinkles
+    - retain graphite primarily beside surviving thick character contours
