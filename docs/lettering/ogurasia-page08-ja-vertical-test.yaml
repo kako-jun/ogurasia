@@ -1,0 +1,45 @@
+page: 8
+language: ja
+status: layout-test
+base_image: ../storyboards/ogurasia-page08-first-dialogue-rough-v02.png
+text_layer: ogurasia-page08-ja-vertical-test.svg
+rendered_text_layer: ogurasia-page08-ja-vertical-test.png
+review_overlay: ogurasia-page08-ja-vertical-test-overlay.png
+font:
+  family: GenEi Antique Pv6
+  package: ../../assets/fonts/GenEiAntique_v6.0a.zip
+  version: 6.0a
+  source: https://okoneya.jp/font/download.html
+  license_file: gen-ei-antique/GenEiAntique_v6.0a/OFLicense.txt
+style:
+  fill: '#111111'
+  outline: '#ffffff'
+  outline_px: 5
+  background: transparent
+  writing_mode: vertical-rl
+  page_reading: right-to-left
+  column_reading: right-to-left
+elements:
+  - id: p8-top-right
+    type: speech
+    speaker: jia
+    safe_box: [710, 25, 160, 130]
+    columns_right_to_left: ['ここで', '釣りを', 'してい', 'るの？']
+  - id: p8-top-left
+    type: speech
+    speaker: boy
+    safe_box: [50, 25, 190, 130]
+    columns_right_to_left: ['日本語', 'でおk', '。おれ', '、母親', 'が渡来', '人でさ']
+  - id: p8-second-right
+    type: speech
+    speaker: boy
+    safe_box: [805, 535, 115, 125]
+    columns_right_to_left: ['クジラ', 'って賢', 'い？', 'IQヤ', 'バいの', '？']
+  - id: p8-second-left
+    type: speech
+    speaker: jia
+    safe_box: [22, 535, 170, 125]
+    columns_right_to_left: ['賢いの', 'でIQな', 'んて言', 'わない', 'のさ']
+notes:
+  - 中央大コマと最下段の吹き出しは、既存ラフの発話順との整合を再設計するまで未配置。
+  - これは採用ページではなく、縦書き・列分け・透過文字レイヤーの検証成果物。

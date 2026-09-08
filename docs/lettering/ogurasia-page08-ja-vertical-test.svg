@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="941" height="1672" viewBox="0 0 941 1672">
+  <title>おぐらじあ page 08 Japanese vertical lettering test</title>
+  <desc>Transparent text-only layer. Original art and balloons are not included or modified.</desc>
+  <style>
+    .ja {
+      font-family: 'GenEi Antique Pv6', '源暎アンチック 詰 v6', serif;
+      font-size: 24px;
+      font-weight: 500;
+      fill: #111111;
+      stroke: #ffffff;
+      stroke-width: 5px;
+      stroke-linejoin: round;
+      paint-order: stroke fill;
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+    }
+  </style>
+
+  <!-- top-right: first speech, read first in Japanese RTL order -->
+  <text class="ja" x="835" y="55">ここで</text>
+  <text class="ja" x="807" y="55">釣りを</text>
+  <text class="ja" x="779" y="55">してい</text>
+  <text class="ja" x="751" y="55">るの？</text>
+
+  <!-- top-left: response, read second -->
+  <text class="ja" x="211" y="55">日本語</text>
+  <text class="ja" x="183" y="55">でおk</text>
+  <text class="ja" x="155" y="55">。おれ</text>
+  <text class="ja" x="127" y="55">、母親</text>
+  <text class="ja" x="99" y="55">が渡来</text>
+  <text class="ja" x="71" y="55">人でさ</text>
+
+  <!-- second row right: boy's question, read third -->
+  <text class="ja" x="895" y="575">クジラ</text>
+  <text class="ja" x="870" y="575">って賢</text>
+  <text class="ja" x="845" y="575">い？</text>
+  <text class="ja" x="820" y="575">IQヤ</text>
+  <text class="ja" x="795" y="575">バいの</text>
+  <text class="ja" x="770" y="575">？</text>
+
+  <!-- second row left: Jia's response, read fourth -->
+  <text class="ja" x="163" y="575">賢いの</text>
+  <text class="ja" x="137" y="575">でIQな</text>
+  <text class="ja" x="111" y="575">んて言</text>
+  <text class="ja" x="85" y="575">わない</text>
+  <text class="ja" x="59" y="575">のさ</text>
+</svg>
