@@ -4,6 +4,942 @@
 
 > 正本固定：このファイルだけを設計書として使用する。保存先・ファイル名・Markdown形式を変更せず、新しい設計版は本ファイルへ追記する。
 
+## 文章ネーム v01（絵より先に読む正本）
+
+この節は、画像生成のための指定より優先する。コマの形、段間、墨の濃度、吹き出しの大きさを隠しても、読者が「誰が、どこで、何を見て、どう反応し、次に何をするか」を追えることを合格条件とする。
+
+### 1ページ「ひなげしの入口」
+
+開始状態：海辺を歩く少年は、ひなげしという場所をまだ知らない。知りたいのは町の由来ではなく、釣りのできる場所である。
+
+1. 海沿いの道の先に、別荘地の入口のような門が見える。少年はその門へ歩いている。心の声「海の近くには、変なところが多い」。
+2. 門の標識に「ひなげし」とある。階下には海が入り込み、建物の一部が水に沈んでいる。少年は足を止めず、標識より水面を見る。
+3. 左手に都会、右手に荒れた斜面が見える。少年はその向きを知っているようで、理由は説明しない。「左は都会で、右は南だった。たぶん」。
+4. 海に半分沈んだ集合住宅を見上げる。ベランダには洗濯物、住民、子供、テレビの光があり、異常な建物の中で普通の生活が続いている。
+5. 少年が門をくぐる。住民の誰かが少年を見るが、声はかけない。少年は視線を海へ戻す。
+6. 団地の奥に水路が見える。少年の心の声「釣れる場所が、あるといい」。
+
+終了状態：少年はひなげしへ入った。読者は異常な町を見たが、少年の目的はまだ釣りのままである。
+
+ページをめくる理由：少年が町の中を歩き、異常な場所で普通に暮らす住民を見るため。
+
+### 2ページ「町を歩く」
+
+開始状態：少年はひなげしの入口を越え、水路へ向かって歩いている。町の異常さは見えたが、生活の実感はまだない。
+
+1. 水面のある共用通路を少年が歩く。ベランダから洗濯物が垂れ、住民が普通に話している。少年は人より通路の先を見る。
+2. 無料の菓子棚を見つけ、少年が一つだけ取る。誰も止めない。少年は歩きながら菓子を口に入れる。
+3. 外向きのテレビからこち亀の音が聞こえる。住民たちは画面を見て笑う。少年は画面を見ず、音だけを聞いて通り過ぎる。
+4. トイレ前の卓球台を少年が斜めに横切る。球が竿に当たりそうになり、少年は竿を避ける。
+5. 夜市のエビ釣りで、人々が水槽を覗いている。少年は一度足を止めるが、水路の方向へ視線を戻す。
+6. 屋台の端に、鯨カツの皿が置かれている。少年はまだ意味を知らず、皿を見たまま一歩遅れる。
+
+終了状態：少年は町の生活に一瞬馴染みかけたが、鯨カツという不穏な物だけが視界に残る。
+
+ページをめくる理由：少年が皿を見て止まった理由と、ひなげしの危険な側面を次に読むため。
+
+### 3ページ「ひなげしの日常」
+
+開始状態：少年は鯨カツの皿を見ている。町の生活は普通に見えるが、少年はその普通さをまだ信用していない。
+
+1. 食堂の大きなテーブルで、住民たちが食事をしている。少年は端の席に座り、先ほどの皿を思い出す。
+2. 食堂の人が少年へ皿を滑らせる。少年は礼を言うより先に、皿の名前を見る。
+3. 皿には「鯨カツ」と書かれている。文字を見た少年の手が止まる。顔全体は見せない。
+4. 外ではテレビの光、卓球の球、菓子棚の手が短く連続する。町の人々は鯨カツを特別視していない。
+5. 少年が皿を持って夜市へ出る。人の流れの中で、鯨カツを食べながら歩く。
+6. 少年が最後の一切れを見て、「初めてだけど」と思う。皿の向こうに海がある。
+
+終了状態：少年は鯨カツを食べた。読者はそれをただの名物として読めるが、後で別の意味へ変わる余地が残る。
+
+ページをめくる理由：少年が町の危険を知り、それでも釣りへ戻ることで、日常の底にある不安を見せるため。
+
+### 4ページ「危険な平和」
+
+開始状態：少年は食堂を出て海へ戻ろうとしている。町の人々は平和そうだが、少年だけが逃げ道を考えている。
+
+1. ひび割れた駐車場を少年が走る。地面の継ぎ目で足が跳ねる。住民はその横を平然と歩く。
+2. 住民二人が「殺人事件、多いよね」と世間話をしている。声の調子は天気の話と変わらない。
+3. 少年は建物の出口、水路、海への道を頭の中で順番に見る。「逃げるなら、あっち。でも、あっちは女風呂だった」。
+4. 水中に沈んだ階段と柱が見える。風呂にも防波堤にも見える入口で、女性の声だけが遠く聞こえる。
+5. 少年は入口から離れる。怖がって逃げるのではなく、釣り場としては別の道がよいと判断する。
+6. 海へ続く水路の前で、少年が竿を持ち直す。危険を見た後も、目的は変わらない。
+
+終了状態：読者はひなげしが危険な場所だと知る。少年は危険を理解しているが、釣りをやめない。
+
+ページをめくる理由：少年が探していた「釣れる場所」が初めて見つかるため。
+
+### 5ページ「釣り場を探す」
+
+開始状態：少年は町の危険を抜け、水路沿いで釣り場を探している。目的が町の観察から釣りへ戻る。
+
+1. 少年が壁沿いを歩く。壁の向こうから海の音がするが、まだ水面は見えない。
+2. 一つ目の場所は浅く、岩と低い壁しかない。少年は覗いて、すぐに歩き出す。
+3. 二つ目の場所にはバケツが置かれている。少年は期待するが、水が淀んでいて首を横に振る。
+4. 水路が奥で海とつながっている。少年は身体を前へ倒し、視線を水路の奥へ落とす。
+5. 水面に釣り針が入る余白がある。少年の心の声「ここは、釣り人として期待できる。かなり期待できる」。
+6. 少年が水路を覗き込み、初めて笑う。「海と繋がってんじゃん。釣りたい！」
+
+終了状態：少年は理想の釣り場を見つけ、竿を出す準備を始める。
+
+ページをめくる理由：釣りを始めようとした瞬間、水面に別のものが現れるため。
+
+### 6ページ「黒い波」
+
+開始状態：少年は釣りを始める直前である。水面は静かで、読者にも異変はまだ見えない。
+
+1. 少年が竿を組み立て、バケツを足元へ置く。針はまだ水に入っていない。
+2. 何もない水面。少年の呼吸と波の音だけがある。
+3. 遠くの水面に、薄い灰色の帯が現れる。少年は気づかず、竿先を見ている。
+4. 灰色の帯が黒くなり、ゆっくりこちらへ広がる。少年が初めて顔を上げる。
+5. 黒い塊がコンクリートの浜へ乗り上げる。クジラの全体像は見せず、面積だけで大きさを伝える。
+6. 少年が黒い塊の横に立つ。「クジラだ。まぁ、クジラがいても釣りはできるのか？」
+
+終了状態：少年は巨大なクジラを見ても、まず釣りができるか考えている。読者は少年の異常な平静を知る。
+
+ページをめくる理由：黒い塊がただのクジラではなく、別の姿へ変わり始めるため。
+
+### 7ページ「少女になる」
+
+開始状態：黒い塊が浜にいる。少年はまだクジラを観察しており、ジアの正体を知らない。
+
+1. 黒い表面に白い曲線が走る。少年は竿を持ったまま、少しだけ後ろへ下がる。
+2. 黒い面の一部が白い縁に分かれる。波ではなく、身体の動きだと読者だけが気づく。
+3. クジラとも人間とも分からない横姿が起き上がる。顔は描かない。
+4. 少年が自分の上着とズボンを脱いで差し出す。ジアが裸のまま立っていることに気づき、少年は海のほうを向いたまま服だけを渡す。
+5. 少女が服を身につけ、髪の白い曲線が黒い塊の線と同じ形になる。ここで初めてジアの姿を見せる。
+6. 少年と少女が海辺で向き合う。少年は驚きを口にせず、少女も説明しない。二人の間に会話前の沈黙が残る。
+
+終了状態：クジラは少女の姿になった。正体や仕組みは分からないが、二人は会話できそうな距離にいる。
+
+ページをめくる理由：沈黙を破るのがどちらかを知るため。
+
+### 8ページ「最初の会話」
+
+開始状態：少年とジアが海辺で向き合い、まだ互いに話していない。
+
+1. ジアが先に英語で話しかける。「Are you fishing here?」少年は内容より、少女が普通に話しかけてきたことに反応する。
+2. 少年は竿を持ったまま日本語で返す。「日本語でおk。おれ、母親が渡来人でさ」。読者は少年の出自を初めて知る。
+3. ジアが少し考えて、「おー、あいしー。あと、私のこと、クジラだと思ってる？」と返す。会話が成立してしまったことを、二人とも大事件にしない。
+4. 少年が竿を開きながら聞く。「クジラって賢いとは聞いてたけど、IQヤバいの？」変身の説明ではなく、少年の変な興味として出す。
+5. ジアが片手を開き、「賢いのでIQなんて言わないのさ」と返す。少年は納得したようなしないような顔で、団地を見る。
+6. 少年が歩き出しながら聞く。「ここ、いいところ？」ジアはすぐには答えず、二人がひなげしの奥へ向かう。
+
+終了状態：異常な出会いは説明されず、二人は普通の会話を始めた。少年はジアを町の中へ連れていく。
+
+ページをめくる理由：ジアがひなげしをどう見ているか、少年の過去と町の不穏さがどう交わるかを知るため。
+
+### 9ページ「ひなげしの説明と鯨カツ」
+
+開始状態：ページ8の最後の問い「ここ、いいところ？」を受ける。少年とジアは団地へ歩いている。
+
+1. ジアが団地を見上げて答える。「わかんない。上陸できないところもあるから、そこよりはいいかも？」少年は建物の水中部分を見る。
+2. ジアが階段、ベランダ、食堂を指しながら、この町には殺人事件が多いと淡々と説明する。少年は怖がるより、住民の多さに目を奪われる。
+3. 共用通路で、少年が同級生を見つける。少年の心の声で「ジアと付き合ってたやつだ」と、読者にも関係を渡す。
+4. ジアと元同級生の目が合う。二人とも話さない。少年はその沈黙を、気まずさなのか別の感情なのか判断できない。
+5. 食堂で少年が鯨カツの皿を持つ。「オレさっき鯨カツ食ったぜ。初めてだけど」。ジアは皿を見るが、表情を変えない。
+6. ジアが「気にしない。私も食うし」と言う。少年はその返答を普通の好き嫌いの話として受け取り、読者だけが皿とジアを結びつける。
+
+終了状態：少年はジアの過去と鯨カツの意味に近づいたが、まだ結びつけていない。二人の関係は、町を歩くうちに少しだけ近づいた。
+
+ページをめくる理由：少年がジアの名前を尋ね、読者がこの少女を呼ぶ方法を得るため。
+
+### 10ページ「名前」
+
+開始状態：食堂を出た二人が海辺へ戻る。出会いは一段落し、少年はジアを名前で呼びたいと思う。
+
+1. 少年が海を見ながら聞く。「名前、あるの？」ジアはすぐに答えず、髪を風に流す。
+2. ジアが「巨椋」と答える。少年が「あなた達の文字でしょうが！」と返し、初めて二人の会話に軽い笑いが生まれる。
+3. ジアが「おぐら。通名」と言う。少年はその名前を口の中で一度繰り返す。
+4. 学校でアジアの意味を習った記憶が入り、「アジアってのは、それ以外って意味だ」と少年が思い出す。ジアは「ジア。ジャンプ神と桂正和の共著。由緒正しい名前だ」と名乗り直す。
+5. 少年が「子供だけで生きてける世界じゃないだろ」と聞く。ジアは「父親はいるよー」と答える。少年が「君も、かわいい」と返し、ジアが少しだけ黙る。
+6. 少年が「その父親に、釣りしていいって聞いた？」と聞く。ジアは片手を開いて「聞いてないけど、いいよ」と答える。少年は竿を持ち直す。
+7. 少年が「おれをなめるなよ」と言い、ジアが「おーるぶおーけー」と許可する。二人は海へ向き直る。
+
+終了状態：少女はジアという名前を得て、少年との関係が始まった。正体、父親、鯨カツの意味は解決していない。
+
+ページをめくる理由：二人の日常が始まり、出会いの謎よりも関係の変化を読む段階へ進むため。
+
+## 構造化ページ台帳 v01
+
+文章ネームの各ページは、以下のページキーを親レコードとして持つ。本文のページ記述とこの台帳の値が食い違う場合は、台帳を直してからコマを設計する。コマの詳細は `page_id` を親キーにして、`panel_id` を子キーとして記録する。
+
+| page_id | title | role | previous_page | next_page | knowledge_delta | relationship_delta | page_turn_reason |
+|---|---|---|---|---|---|---|---|
+| p01 | ひなげしの入口 | 異常な町と少年の釣り目的を同時に導入する | 海辺の道を歩く | p02 | ひなげしは海に沈み、普通の生活がある | 少年は町へ入る | 少年が町の生活を通過する |
+| p02 | 町を歩く | 住民の日常を少年の移動で見せる | 町へ入った | p03 | 異常な町でも生活は普通に続く | 少年が町に一瞬馴染む | 鯨カツの皿が視界に残る |
+| p03 | ひなげしの日常 | 鯨カツを生活の中へ置き、不穏な余韻を作る | 鯨カツを見た | p04 | 鯨カツは町の普通の食べ物に見える | 少年は町を信用しきれない | 町の危険を知る |
+| p04 | 危険な平和 | 住民の平静と少年の警戒を対比する | 食堂から海へ戻る | p05 | ひなげしには危険がある | 少年は危険を見ても目的を変えない | 釣り場を見つける |
+| p05 | 釣り場を探す | 少年の視線を理想の水路へ収束させる | 危険な道を抜けた | p06 | 海につながる釣り場がある | 少年の目的が明確になる | 釣りの直前に異変が起きる |
+| p06 | 黒い波 | 水面の異変を面積の増加で見せる | 釣りを始める直前 | p07 | 黒い塊がクジラらしいと分かる | 少年は異常を平静に受け止める | 黒い塊が変化する |
+| p07 | 少女になる | クジラが少女になるが、正体は説明しない | 黒い塊が浜にいる | p08 | ジアが少女の姿になる | 少年とジアが向き合う | どちらが話すかを待たせる |
+| p08 | 最初の会話 | 異常な出会いを自然な会話へ変える | 二人が海辺で沈黙する | p09 | ジアが話せ、少年が渡来人の家系だと分かる | 会話が成立し関係が始まる | 二人が団地へ歩き出す |
+| p09 | ひなげしの説明と鯨カツ | 町・元同級生・鯨カツを一つの歩行でつなぐ | 団地へ歩き出した | p10 | ジアと元同級生の過去、鯨カツの不穏さが見える | 少年はジアを知ろうとする | 名前を尋ねる |
+| p10 | 名前 | 名前の交換で関係を始め、釣りへ戻す | 鯨カツの後、海辺へ戻る | p11 | ジアの名前と由来が分かる | 二人の日常が始まる | 次部の日常へ開く |
+
+### ページレコードの充填規則
+
+- `start_state` と `end_state` は、人物・場所・時間・知識・目的を含む一文で埋める。
+- `knowledge_delta` は「読者が新しく知ったこと」を一つ以上書く。雰囲気や画像の印象だけは禁止する。
+- `relationship_delta` は、二人の距離・警戒・信頼・誤解のどれがどう変化したかを書く。
+- `page_turn_reason` は、次ページを開く未解決の行動・問い・違和感を書く。「続く」「雰囲気を残す」だけは禁止する。
+- 各 `panel` には `purpose`, `action`, `reveal`, `hold_back`, `transition_to_next` を必ず埋める。
+- 各 `dialogue` には `speaker`, `type`, `reason_to_speak`, `reaction_before`, `reaction_after` を必ず埋める。`type: speech` には話者別の `balloon_profile`, `balloon_shape`, `balloon_geometry` も必須とする。
+- 吹き出し形状・外接比・背景画材の共通規則は、ページ固有の正本ではなく `ogurasia-page` / `ogurasia-name-review` / `ogurasia-art-review` の各スキルを参照する。この正本では、p08固有の話者割当と背景対象だけを記録する。
+- p08固有の注意：少年の3発話はコンパクトな雲形、ジアの3発話はコンパクトな八角形。背景は墨筆またはドリップ画報で海・水路・ひなげしの町・団地を具体的に描く。
+- `review` はページとコマの両方に持たせ、指摘・判定・戻り先・対象版を同じレコードへ記録する。
+
+## 文章ネーム v02（構造化・現行正本）
+
+v01の文章を、ページ→コマ→台詞→レビューの階層へ展開した。`NOT_REVIEWED` は未確認を意味し、合格ではない。全ページのネームレビューを完了するまで、絵の生成へ進まない。
+
+### p01「ひなげしの入口」
+
+```yaml
+page:
+  page_id: p01
+  title: ひなげしの入口
+  role: 異常な町と少年の釣り目的を同時に導入する
+  previous_page: opening
+  next_page: p02
+  start_state: 海辺を歩く少年は、ひなげしをまだ知らず、釣り場だけを探している
+  end_state: 少年はひなげしへ入り、町の異常さより釣り場へ関心を向けている
+  reader_question_at_start: この少年はどこへ向かい、何を探しているのか
+  reader_question_at_turn: 海に沈んだ町で、少年はどんな生活を見るのか
+  knowledge_delta: ひなげしは海に沈んだ集合住宅と普通の生活を持つ
+  relationship_delta: 少年と町の接触が始まる
+  emotional_beat: 好奇心
+  page_turn_reason: 少年が町の中を歩き、住民の日常へ入る
+  must_show: [ひなげしの入口, 海に沈んだ建物, 少年の釣り目的]
+  must_not_explain: [町の歴史, ジアの正体, 左右の地理の理由]
+  panel_count: 6
+  panels:
+    - panel_id: p01-c01
+      sequence: 1
+      purpose: 入口へ向かう少年を置く
+      location: 海沿いの道
+      time: 現在
+      characters: [boy]
+      action: 少年が門へ歩く
+      gaze: 門の先
+      expression_or_body_reaction: 前傾した歩行
+      props: [釣り竿]
+      reveal: 海辺の異常な入口
+      hold_back: 町の名前
+      transition_to_next: 門の標識へ視線を移す
+      dialogue: [{text: 海の近くには、変なところが多い, speaker: boy, type: thought, reason_to_speak: 場所への第一印象, reaction_before: 門を見る, reaction_after: 歩き続ける}]
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+    - panel_id: p01-c02
+      sequence: 2
+      purpose: 町の入口と海への侵食を示す
+      location: ひなげし入口
+      time: 現在
+      characters: [boy]
+      action: 少年が標識より階下の水面を見る
+      gaze: 水面
+      expression_or_body_reaction: 足を止めかける
+      props: [標識, 海水]
+      reveal: 建物の下に海が入り込む
+      hold_back: 侵食の原因
+      transition_to_next: 左右の景色へ視線を広げる
+      dialogue: [{text: ひなげし, speaker: none, type: caption, reason_to_speak: 場所の固有名を渡す, reaction_before: 水面を見る, reaction_after: 左右を見る}]
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+    - panel_id: p01-c03
+      sequence: 3
+      purpose: 少年の地理認識を示す
+      location: 入口から見える左右の景色
+      time: 現在
+      characters: [boy]
+      action: 少年が都会と荒れた斜面を見比べる
+      gaze: 左右の景色
+      expression_or_body_reaction: 首だけを動かす
+      props: []
+      reveal: 少年はこの土地の方向を知っている
+      hold_back: なぜ知っているか
+      transition_to_next: 視線を正面の団地へ戻す
+      dialogue: [{text: 左は都会で、右は南だった。たぶん, speaker: boy, type: thought, reason_to_speak: 地理を断定しきれない感覚を出す, reaction_before: 左右を見る, reaction_after: 団地を見る}]
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+    - panel_id: p01-c04
+      sequence: 4
+      purpose: 異常な建物の中の普通の生活を見せる
+      location: 海に沈んだ集合住宅
+      time: 現在
+      characters: [residents]
+      action: 住民が洗濯、会話、テレビ視聴を続ける
+      gaze: ベランダの生活
+      expression_or_body_reaction: 平常
+      props: [洗濯物, 植木鉢, テレビ]
+      reveal: 異常な場所でも生活は普通に続く
+      hold_back: 住民の出自
+      transition_to_next: 少年を再び画面へ戻す
+      dialogue: []
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+    - panel_id: p01-c05
+      sequence: 5
+      purpose: 少年が町へ入ることを確定する
+      location: ひなげしの門
+      time: 現在
+      characters: [boy, resident]
+      action: 少年が門をくぐり、住民と一瞬目が合う
+      gaze: 少年は海、住民は少年
+      expression_or_body_reaction: 住民は無関心
+      props: [門]
+      reveal: 少年は町の内部へ入った
+      hold_back: 住民同士の関係
+      transition_to_next: 海へ続く水路を見せる
+      dialogue: []
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+    - panel_id: p01-c06
+      sequence: 6
+      purpose: 次ページの歩行目的を作る
+      location: 団地内部の水路前
+      time: 現在
+      characters: [boy]
+      action: 少年が水路の奥を見る
+      gaze: 水路
+      expression_or_body_reaction: 期待
+      props: [釣り竿]
+      reveal: 少年の目的は釣りである
+      hold_back: 水路の正体
+      transition_to_next: 水路沿いを歩き出す
+      dialogue: [{text: 釣れる場所が、あるといい, speaker: boy, type: thought, reason_to_speak: 物語の目的を明示する, reaction_before: 水路を見る, reaction_after: 歩き出す}]
+      replacement_scope: NOT_REVIEWED
+      review: {name_status: NOT_REVIEWED, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: name, reviewed_version: v02}
+  review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+```
+
+### p02〜p10 構造化ページレコード
+
+以下のページも同じキーを使う。台詞とコマの本文は v01 の対応ページから移し、各コマの `reveal` / `hold_back` / `transition_to_next` / `review` を必ず持たせる。
+
+```yaml
+pages:
+  - page_id: p02
+    title: 町を歩く
+    role: 住民の日常を少年の移動で見せる
+    previous_page: p01
+    next_page: p03
+    start_state: 少年は水路へ向かって歩き、町の生活をまだ外側から見ている
+    end_state: 少年は町に一瞬馴染み、鯨カツの皿だけが視界に残る
+    knowledge_delta: 異常な町でも生活は普通に続いている
+    relationship_delta: 少年と町の距離が少し縮まる
+    page_turn_reason: 鯨カツを見て少年が足を止めた理由を読む
+    panel_count: 6
+    panels: [p02-c01, p02-c02, p02-c03, p02-c04, p02-c05, p02-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p03
+    title: ひなげしの日常
+    role: 鯨カツを生活の中へ置き、不穏な余韻を作る
+    previous_page: p02
+    next_page: p04
+    start_state: 少年は鯨カツの皿を見て、町の普通さをまだ信用していない
+    end_state: 少年は鯨カツを食べたが、その意味は知らない
+    knowledge_delta: 鯨カツは町の普通の食べ物として扱われている
+    relationship_delta: 少年は町の生活へ触れる
+    page_turn_reason: 町の危険を知り、それでも釣りへ戻る
+    panel_count: 6
+    panels: [p03-c01, p03-c02, p03-c03, p03-c04, p03-c05, p03-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p04
+    title: 危険な平和
+    role: 住民の平静と少年の警戒を対比する
+    previous_page: p03
+    next_page: p05
+    start_state: 少年は食堂を出て海へ戻り、住民は危険を日常会話にしている
+    end_state: 少年は危険を理解しても釣りをやめない
+    knowledge_delta: ひなげしには殺人事件や危険な水中空間がある
+    relationship_delta: 少年は町を観察する側に戻る
+    page_turn_reason: 少年が探していた釣り場を見つける
+    panel_count: 6
+    panels: [p04-c01, p04-c02, p04-c03, p04-c04, p04-c05, p04-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p05
+    title: 釣り場を探す
+    role: 少年の視線を理想の水路へ収束させる
+    previous_page: p04
+    next_page: p06
+    start_state: 少年は危険な道を抜け、釣り場を比較している
+    end_state: 少年は海につながる水路を理想の釣り場として見つける
+    knowledge_delta: ひなげしの奥に海へつながる水路がある
+    relationship_delta: 少年と海の距離が近づく
+    page_turn_reason: 釣りの直前に水面へ異変が現れる
+    panel_count: 6
+    panels: [p05-c01, p05-c02, p05-c03, p05-c04, p05-c05, p05-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p06
+    title: 黒い波
+    role: 水面の異変を面積の増加で見せる
+    previous_page: p05
+    next_page: p07
+    start_state: 少年は釣りを始める直前で、水面は静かである
+    end_state: 少年は巨大な黒い塊をクジラだと認識する
+    knowledge_delta: 黒い塊が海から浜へ現れた
+    relationship_delta: 少年と未知の存在が同じ画面に入る
+    page_turn_reason: 黒い塊が別の姿へ変化する
+    panel_count: 6
+    panels: [p06-c01, p06-c02, p06-c03, p06-c04, p06-c05, p06-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p07
+    title: 少女になる
+    role: クジラが少女になるが、正体は説明しない
+    previous_page: p06
+    next_page: p08
+    start_state: 黒い塊が浜にあり、少年はまだクジラを観察している
+    end_state: クジラは少女の姿になり、少年と向き合っている
+    knowledge_delta: 黒い塊と少女ジアの姿が連続している
+    relationship_delta: 少年とジアが会話できる距離に入る
+    page_turn_reason: 沈黙をどちらが破るかを待つ
+    panel_count: 6
+    panels: [p07-c01, p07-c02, p07-c03, p07-c04, p07-c05, p07-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p08
+    title: 最初の会話
+    role: 異常な出会いを自然な会話へ変える
+    previous_page: p07
+    next_page: p09
+    start_state: 少年とジアが海辺で向き合い、まだ話していない
+    end_state: 二人は普通の会話を始め、団地へ歩き出す
+    knowledge_delta: ジアは話せ、少年には渡来人の母親がいる
+    relationship_delta: 警戒より会話の好奇心が先に立つ
+    page_turn_reason: ジアの町への評価と、少年の過去を知る
+    panel_count: 6
+    panels: [p08-c01, p08-c02, p08-c03, p08-c04, p08-c05, p08-c06]
+    review: {name_status: PASS, name_findings: [], art_status: REJECT_BACKGROUND, art_findings: [v15はlayout_lockの6コマ境界・非対称構成・白い段間を再現, 背景が水彩風の写実的な海と町で薄い墨筆／ドリップ画報の簡略トーン違反, 最上段に少年用の余分な吹き出しがある], return_to: rough, reviewed_version: v15}
+  - page_id: p09
+    title: ひなげしの説明と鯨カツ
+    role: 町・元同級生・鯨カツを歩行の中でつなぐ
+    previous_page: p08
+    next_page: p10
+    start_state: 少年とジアは団地へ歩き、少年の問いへの返答を待っている
+    end_state: 鯨カツとジアが結びつくが、少年はまだ気づかない
+    knowledge_delta: ジアには元同級生との過去があり、鯨カツには別の意味がある
+    relationship_delta: 少年はジアを知りたいと思い始める
+    page_turn_reason: 少年がジアの名前を尋ねる
+    panel_count: 6
+    panels: [p09-c01, p09-c02, p09-c03, p09-c04, p09-c05, p09-c06]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+  - page_id: p10
+    title: 名前
+    role: 名前の交換で関係を始め、釣りへ戻す
+    previous_page: p09
+    next_page: p11
+    start_state: 食堂の後、少年とジアは海辺へ戻り、少年は名前を知りたい
+    end_state: ジアという名前が生まれ、二人は釣りを始める
+    knowledge_delta: 巨椋・おぐら・ジアという名前の関係が示される
+    relationship_delta: 二人が互いを呼べる関係になる
+    page_turn_reason: 出会いの謎から、二人の日常へ進む
+    panel_count: 7
+    panels: [p10-c01, p10-c02, p10-c03, p10-c04, p10-c05, p10-c06, p10-c07]
+    review: {name_status: PASS, name_findings: [], art_status: NOT_REVIEWED, art_findings: [], return_to: art, reviewed_version: v02}
+
+panel_values:
+  - panel_id: p02-c01
+    purpose: 町の共用通路を歩く少年を見せる
+    action: 少年が水路沿いを奥へ歩く
+    reveal: 住民の生活が通路の周囲にある
+    hold_back: 町の危険の具体像
+    transition_to_next: 少年の手元へ寄る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p02-c02
+    purpose: 無料の菓子を通して町の寛容さを見せる
+    action: 少年が菓子を一つ取る
+    reveal: 誰も少年を止めない
+    hold_back: 菓子の由来
+    transition_to_next: テレビの音へ視線を送る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p02-c03
+    purpose: 住民の普通の日常を置く
+    action: テレビの音を聞きながら少年が通り過ぎる
+    reveal: 異常な町に普通の娯楽がある
+    hold_back: テレビ番組の内容
+    transition_to_next: 卓球の球が画面へ入る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p02-c04
+    purpose: 移動の速度を一度止める
+    action: 卓球台を少年が避ける
+    reveal: 生活の動線が少年の進路を横切る
+    hold_back: 少年と住民の関係
+    transition_to_next: 夜市の灯りへ進む
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p02-c05
+    purpose: 夜市の人の流れを見せる
+    action: 少年がエビ釣りの水槽を覗く
+    reveal: 町には子供も大人も集まっている
+    hold_back: 鯨カツの意味
+    transition_to_next: 屋台の皿へ視線を移す
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p02-c06
+    purpose: 鯨カツを最初の違和感として置く
+    action: 少年が皿の前で一歩遅れる
+    reveal: 鯨カツという言葉がある
+    hold_back: それが何の肉か
+    transition_to_next: 食堂で皿を見る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c01
+    purpose: 食堂の生活へ少年を入れる
+    action: 少年が住民の食卓の端に座る
+    reveal: 食事が共同体の中心にある
+    hold_back: 鯨カツを食べる覚悟
+    transition_to_next: 皿を少年へ滑らせる
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c02
+    purpose: 皿の名前を読ませる
+    action: 少年が皿を受け取り文字を見る
+    reveal: 皿には鯨カツと書かれている
+    hold_back: 鯨の姿
+    transition_to_next: 文字から少年の手へ寄る
+    dialogue: [{text: 鯨カツ, speaker: none, type: caption, reason_to_speak: 料理名を読者へ渡す, reaction_before: 皿を見る, reaction_after: 手が止まる}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c03
+    purpose: 少年の一瞬の抵抗を見せる
+    action: 少年の手が箸の上で止まる
+    reveal: 少年は鯨を食べることに引っかかる
+    hold_back: 引っかかりの理由
+    transition_to_next: 周囲の平然さへ切り替える
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c04
+    purpose: 町の普通さで違和感を薄める
+    action: 住民がテレビを見、卓球を続ける
+    reveal: 鯨カツは町では特別ではない
+    hold_back: 料理の出どころ
+    transition_to_next: 少年が皿を持って外へ出る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c05
+    purpose: 少年が食べる行動を選ぶ
+    action: 少年が鯨カツを食べながら夜市を歩く
+    reveal: 少年は違和感より好奇心を優先する
+    hold_back: 後の意味
+    transition_to_next: 最後の一切れへ寄る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p03-c06
+    purpose: 食べ物を海の前で孤立させる
+    action: 少年が最後の一切れを見る
+    reveal: 少年は初めて鯨カツを食べた
+    hold_back: それが誰に関係するか
+    transition_to_next: 海へ戻る足元を見せる
+    dialogue: [{text: オレさっき鯨カツ食ったぜ。初めてだけど, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 食べた事実を軽く共有する, reaction_before: 皿を見る, reaction_after: 海へ歩く}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c01
+    purpose: 危険な地面を少年の身体で示す
+    action: 少年がひび割れた駐車場を走る
+    reveal: 足元が不安定な町である
+    hold_back: 走る理由
+    transition_to_next: 平然とする住民へ切り替える
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c02
+    purpose: 住民と少年の危険認識を対比する
+    action: 住民二人がひびの上で世間話をする
+    reveal: 危険が日常会話になっている
+    hold_back: 少年が何を恐れるか
+    transition_to_next: 少年の逃走経路へ移る
+    dialogue: [{text: 殺人事件、多いよね, speaker: resident, type: speech, reason_to_speak: 危険を平常の話題にする, reaction_before: ひびを踏む, reaction_after: 平然と歩く}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c03
+    purpose: 少年が逃げ道を読む性格を見せる
+    action: 少年が出口と水路を頭の中で並べる
+    reveal: 少年は危険時の経路を考える
+    hold_back: 逃げる必要があるか
+    transition_to_next: 水中の入口を見せる
+    dialogue: [{text: 逃げるなら、あっち。でも、あっちは女風呂だった, speaker: boy, type: thought, reason_to_speak: 逃走経路の可笑しさを出す, reaction_before: 出口を見る, reaction_after: 水中入口を見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c04
+    purpose: 風呂と防波堤の境界を曖昧にする
+    action: 水中の階段と柱を見せる
+    reveal: 建物の内部が海とつながっている
+    hold_back: 入口の用途
+    transition_to_next: 少年が入口から離れる
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c05
+    purpose: 危険を説明せず空間で残す
+    action: 風呂にも防波堤にも見える入口を置く
+    reveal: 読者も少年も場所を断定できない
+    hold_back: 住民の生活の詳細
+    transition_to_next: 海への道へ視線を戻す
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p04-c06
+    purpose: 少年の目的が変わらないことを確認する
+    action: 少年が竿を持って海へ歩く
+    reveal: 危険を見ても釣りをやめない
+    hold_back: 水路に何がいるか
+    transition_to_next: 水路の候補を探す
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c01
+    purpose: 海が近いことを予告する
+    action: 少年が壁沿いを歩く
+    reveal: 壁の向こうに海の音がある
+    hold_back: 最適な釣り場
+    transition_to_next: 最初の候補へ進む
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c02
+    purpose: 釣り場の比較を始める
+    action: 少年が浅い岩場を覗いて通り過ぎる
+    reveal: 最初の候補は不十分
+    hold_back: 少年が求める条件
+    transition_to_next: 次の候補へ
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c03
+    purpose: 期待と落胆をもう一度作る
+    action: 少年がバケツのある水面を覗く
+    reveal: 二つ目の候補も水が淀んでいる
+    hold_back: 海につながる水路
+    transition_to_next: 奥の水路へ視線を落とす
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c04
+    purpose: 理想の釣り場を発見する
+    action: 少年が水路へ前傾する
+    reveal: 水路が海へつながる
+    hold_back: 水路の異変
+    transition_to_next: 水面のきらめきへ寄る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c05
+    purpose: 少年の期待を物体へ移す
+    action: 釣り針と水面の余白を見せる
+    reveal: ここなら釣りができそうだ
+    hold_back: 黒い波
+    transition_to_next: 少年の身体を水路へ戻す
+    dialogue: [{text: ここは、釣り人として期待できる。かなり期待できる, speaker: boy, type: thought, reason_to_speak: 期待の段階を言葉にする, reaction_before: 水面を見る, reaction_after: 身体を乗り出す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p05-c06
+    purpose: 釣り直前の喜びを着地させる
+    action: 少年が水路を覗き込み笑う
+    reveal: 水路は海とつながっている
+    hold_back: 水面の向こうの存在
+    transition_to_next: 竿を準備する
+    dialogue: [{text: 海と繋がってんじゃん。釣りたい！, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 発見の喜びを外へ出す, reaction_before: 水路を覗く, reaction_after: 竿を構える}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c01
+    purpose: 釣りの準備を完了させる
+    action: 少年が竿を組み立てバケツを置く
+    reveal: 釣りが始まる直前
+    hold_back: 水面の異変
+    transition_to_next: 静かな水面へ
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c02
+    purpose: 異変前の静けさを置く
+    action: 何もない水面を見せる
+    reveal: まだ事件は起きていない
+    hold_back: 黒い帯
+    transition_to_next: 遠くの灰色へ
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c03
+    purpose: 黒い帯を小さく出す
+    action: 遠くの水面が灰色になる
+    reveal: 水面が変化し始めた
+    hold_back: 変化の大きさ
+    transition_to_next: 黒い帯を広げる
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c04
+    purpose: 異変の面積を増やす
+    action: 黒い帯がページ幅へ広がる
+    reveal: 水面の変化は近づいている
+    hold_back: 何が来たか
+    transition_to_next: 黒い塊の表面へ寄る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c05
+    purpose: 黒い塊を身体として見せる
+    action: 黒い面と白い曲線が浜へ乗り上げる
+    reveal: 巨大な生物らしい
+    hold_back: クジラの顔と全身
+    transition_to_next: 少年を隣に置く
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p06-c06
+    purpose: 少年の平静を異変と並べる
+    action: 少年が黒い塊の横に立つ
+    reveal: 少年はそれをクジラと認識する
+    hold_back: クジラの正体
+    transition_to_next: 黒い塊の変化へ
+    dialogue: [{text: クジラだ。まぁ、クジラがいても釣りはできるのか？, speaker: boy, type: thought, reason_to_speak: 異常を釣りの問題へ変換する, reaction_before: 黒い塊を見る, reaction_after: 竿を持ったまま立つ}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c01
+    purpose: 変身の最初の兆候を示す
+    action: 黒い表面に白い曲線が走る
+    reveal: 塊が動いている
+    hold_back: 人間の姿
+    transition_to_next: 白い縁へ寄る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c02
+    purpose: 生物の輪郭を曖昧に保つ
+    action: 黒い面が白い縁に分かれる
+    reveal: 波ではなく身体の変化
+    hold_back: 顔
+    transition_to_next: 横姿を起こす
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c03
+    purpose: クジラと人間の境界を保つ
+    action: 曖昧な横姿が起き上がる
+    reveal: 人間らしい形が現れる
+    hold_back: 正体の説明
+    transition_to_next: 服を渡す行動へ
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c04
+    purpose: 少年とジアの関係を行動で始める
+    action: 少年が自分の上着とズボンを脱いで差し出す。海のほうを向いたまま渡す
+    reveal: ジアは人間の服を必要としている
+    hold_back: 身体の仕組み
+    transition_to_next: ジアが服を着る
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c05
+    purpose: ジアの少女姿を確定する
+    action: ジアが服を身につけ髪を見せる
+    reveal: 少女の姿とクジラの線がつながる
+    hold_back: 名前
+    transition_to_next: 二人の距離を置く
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p07-c06
+    purpose: 会話前の沈黙を作る
+    action: 少年とジアが海辺で向き合う
+    reveal: 二人は話せる距離にいる
+    hold_back: どちらが話すか
+    transition_to_next: ジアの第一声へ
+    dialogue: []
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c01
+    purpose: ジアが会話を始める
+    background_mode: INK_BRUSH
+    action: ジアが英語で少年へ尋ねる
+    reveal: ジアは言語を使える
+    hold_back: 少年の出自
+    transition_to_next: 少年の返答へ
+    dialogue: [{text: Are you fishing here?, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 沈黙を破り釣りの目的を確認する, reaction_before: 少年と向き合う, reaction_after: 少年を見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c02
+    purpose: 少年の出自を読者へ渡す
+    background_mode: INK_BRUSH
+    action: 少年が日本語で返す
+    reveal: 少年の母親は渡来人
+    hold_back: 少年の外見の説明
+    transition_to_next: ジアの受け止めへ
+    dialogue: [{text: 日本語でおk。おれ、母親が渡来人でさ, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 英語への返答と自分の立場の説明, reaction_before: ジアに話しかけられる, reaction_after: 竿を開き始める}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c03
+    purpose: 会話が普通に続く異常さを見せる
+    background_mode: NONE
+    action: ジアが少し考えて返す
+    reveal: 二人は会話を成立させている
+    hold_back: ジアの正体
+    transition_to_next: 少年の質問へ
+    dialogue: [{text: おー、あいしー。あと、私のこと、クジラだと思ってる？, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 少年の返答を受けて自分の正体への反応を確かめる, reaction_before: 少年を見る, reaction_after: 海へ視線を戻す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c04
+    purpose: 少年の関心をクジラの知性へ移す
+    background_mode: DRIP_GAHO
+    action: 少年が竿を開きながら質問する
+    reveal: 少年は変身より知性に興味を持つ
+    hold_back: ジアの答え
+    transition_to_next: ジアの返答へ
+    dialogue: [{text: クジラって賢いとは聞いてたけど、IQヤバいの？, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 目の前の存在を自分の知識で理解する, reaction_before: 黒い塊を思い出す, reaction_after: ジアを見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c05
+    purpose: ジアの価値観を一言で見せる
+    background_mode: INK_BRUSH
+    action: ジアが片手を開いて返す
+    reveal: ジアは知性を数値で測らない
+    hold_back: ジアの過去
+    transition_to_next: 少年が団地を見る
+    dialogue: [{text: 賢いのでIQなんて言わないのさ, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 少年の質問を軽く受け流す, reaction_before: 少年の質問を聞く, reaction_after: 海と団地を見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p08-c06
+    purpose: 会話を団地の説明へ接続する
+    background_mode: INK_BRUSH
+    action: 少年が歩き出し、町について尋ねる
+    reveal: 少年はジアを町へ連れていく
+    hold_back: ジアの町への評価
+    transition_to_next: 団地を見上げる
+    dialogue: [{text: ここ、いいところ？, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: ジアの感想を聞きたい, reaction_before: 団地を見る, reaction_after: 二人で歩く}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c01
+    purpose: ページ8の問いへ答え始める
+    action: ジアが団地を見ながら答える
+    reveal: ジアも町を評価しきれない
+    hold_back: 殺人事件の詳細
+    transition_to_next: 団地の構造へ寄る
+    dialogue: [{text: わかんない。上陸できないところもあるから、そこよりはいいかも？, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 少年の問いへの返答, reaction_before: 団地を見る, reaction_after: 建物を指す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c02
+    purpose: 町の危険を生活の説明に混ぜる
+    action: ジアが階段とベランダを指す
+    reveal: ひなげしでは殺人事件も多い
+    hold_back: 住民の反応
+    transition_to_next: 少年の視線を元同級生へ移す
+    dialogue: [{text: 殺人事件多いよ？ここ, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 危険を淡々と追加する, reaction_before: 建物を説明する, reaction_after: 少年の視線を追う}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c03
+    purpose: 元同級生の存在を導入する
+    action: 少年が共用通路の少女へ目を向ける
+    reveal: 少年は彼女を知っている
+    hold_back: ジアとの関係
+    transition_to_next: 二人の目線を交差させる
+    dialogue: [{text: ジアと付き合ってたやつだ, speaker: boy, type: thought, reason_to_speak: 少年だけが知る二人の過去を読者へ渡す, reaction_before: 同級生を見る, reaction_after: ジアへ視線を戻す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c04
+    purpose: 過去の関係を沈黙で示す
+    action: ジアと元同級生が目を合わせて話さない
+    reveal: 二人には共有された過去がある
+    hold_back: 別れた理由
+    transition_to_next: 食堂の皿へ移る
+    dialogue: [{text: 以前は、もっとよそよそしかった, speaker: boy, type: thought, reason_to_speak: 少年の観察を読者へ渡す, reaction_before: 二人の沈黙を見る, reaction_after: 皿を見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c05
+    purpose: 鯨カツを会話へ戻す
+    action: 少年が鯨カツの皿を持つ
+    reveal: 少年は先ほど食べたものを共有する
+    hold_back: ジアの親との関係
+    transition_to_next: ジアの顔と皿を同じ画面に置く
+    dialogue: [{text: オレさっき鯨カツ食ったぜ。初めてだけど, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 町の話から食べ物の話へ移る, reaction_before: 皿を見る, reaction_after: ジアを見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p09-c06
+    purpose: 読者だけに鯨カツの不穏さを返す
+    action: ジアが皿を見て平静に答える
+    reveal: ジアは鯨カツを食べる側でもある
+    hold_back: ジアの親である事実
+    transition_to_next: 少年が名前を尋ねる余白を残す
+    dialogue: [{text: 気にしない。私も食うし, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 少年の告白を普通の食事の話として受ける, reaction_before: 鯨カツを見る, reaction_after: 海へ視線を戻す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c01
+    purpose: 名前を尋ねる動機を作る
+    action: 少年が海辺でジアへ質問する
+    reveal: 少年はジアを名前で呼びたい
+    hold_back: 名前の答え
+    transition_to_next: ジアの顔へ寄る
+    dialogue: [{text: 名前、あるの？, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 出会った相手を呼びたい, reaction_before: 海を並んで見る, reaction_after: ジアを見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c02
+    purpose: 巨椋という最初の名前を渡す
+    action: ジアが名前を答える
+    reveal: ジアは巨椋という名を持つ
+    hold_back: 通名の意味
+    transition_to_next: 少年の反論へ
+    dialogue: [{text: 巨椋, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 問いに最初の名前で答える, reaction_before: 少年に見られる, reaction_after: 少年の反応を待つ}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c03
+    purpose: 名前の文字をめぐる軽い衝突を作る
+    action: 少年が名前の表記へ突っ込む
+    reveal: ジアは人間の言葉を少しずらして使う
+    hold_back: ジアの本名
+    transition_to_next: 通名の説明へ
+    dialogue: [{text: あなた達の文字でしょうが！, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 名前の違和感を指摘する, reaction_before: 巨椋を聞く, reaction_after: ジアの説明を待つ}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c04
+    purpose: ジアという呼び名を作る
+    action: ジアが通名と由来を話す
+    reveal: おぐらは通名で、ジアという呼び名が生まれる
+    hold_back: クジラとしての本当の名
+    transition_to_next: 少年が父親の存在を尋ねる
+    dialogue: [{text: おぐら。通名。／ジア。ジャンプ神と桂正和の共著。由緒正しい名前だ, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 呼び名を自分で選ぶ, reaction_before: 少年の反論を聞く, reaction_after: 少年へ視線を返す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c05
+    purpose: 二人の関係を軽い親密さへ進める
+    action: 少年が父親の存在を尋ね、ジアが短く答える
+    reveal: ジアには家族の話を避ける余白がある
+    hold_back: 父親の正確な姿とジアの正体
+    transition_to_next: 釣りの許可へ移る
+    dialogue: [{text: 子供だけで生きてける世界じゃないだろ, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 家族の現実を確認する, reaction_before: 名前を交換する, reaction_after: ジアの返答を待つ}, {text: 父親はいるよー, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 家族の存在だけを軽く答える, reaction_before: 少年の質問を聞く, reaction_after: 少年を見る}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c06
+    purpose: 軽い親密さを作り、釣りの話へ戻す
+    action: 少年がジアをかわいいと言い、父親への確認を尋ねる
+    reveal: 二人の距離が少し縮まる
+    hold_back: 出会いの謎と鯨カツの意味
+    transition_to_next: 海へ向き直り次部へ進む
+    dialogue: [{text: 君も、かわいい／その父親に、釣りしていいって聞いた？, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 家族の話を軽口と釣りへ接続する, reaction_before: 父親の話を聞く, reaction_after: 竿を持ち直す}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+  - panel_id: p10-c07
+    purpose: 出会いを日常の行動へ着地させる
+    action: 少年が釣りの許可を求め、ジアが許可する
+    reveal: 二人の日常が始まる
+    hold_back: 出会いの謎と鯨カツの意味
+    transition_to_next: 二人で海へ向き直る
+    dialogue: [{text: おれをなめるなよ, speaker: boy, type: speech, balloon_profile: BOY_CLOUD_DOUBLE_ROUND, balloon_shape: CLOUD_DOUBLE_ROUND, balloon_geometry: {lobes: 2, lobe_sizes: unequal, necks: 1, finish: freehand}, reason_to_speak: 釣りの腕前への軽口に返す, reaction_before: ジアに見られる, reaction_after: 竿を持つ}, {text: おーるぶおーけー, speaker: jia, type: speech, balloon_profile: JIA_OCTAGONAL_LONG_CARDINAL, balloon_shape: OCTAGONAL_LONG_CARDINAL, balloon_geometry: {cardinal_edges: long, diagonal_edges: short, finish: freehand}, reason_to_speak: 釣りを許可して行動へ移す, reaction_before: 少年の返答を聞く, reaction_after: 海へ向く}]
+    replacement_scope: NOT_REVIEWED
+    review: {name_status: NOT_REVIEWED, name_findings: [], return_to: name}
+```
+
 ## 全ページ共通
 
 - 縦長9:16。上から下へ読む。
@@ -48,8 +984,8 @@
 - 「歩く」は足の前後差と重心、「見る」は首と視線、「取る」は肩から手までの線、「驚く」は身体の引きと視線の固定で描き分ける。
 - 同じページで人物の向きと距離を反復しない。正面の次に背面、全身の次に手元、二人の次に片方の寄り、というように身体情報を切り替える。
 - 表情は目だけで描かない。髪で目が隠れる少年は、口元・首の角度・肩の上がり・身体の引きで反応を表現する。ジアは目・口元・髪の流れ・片手の仕草で、平静／興味／軽い冗談を描き分ける。
-- 台詞があるコマには空白の吹き出しを必ず置く。吹き出しは人物の頭上に機械的に置かず、尻尾の向きで発話者と読む順番を示す。
-- 吹き出しは円形・正方形に固定せず、縦書き日本語と横書き英語の両方で広い安全域を取る。文字から輪郭までの余白も広くする。
+- 台詞があるコマには空白の吹き出しを必ず置く。吹き出しは話者別にする。少年は二つの不均等な丸みと短いくびれを持つ `BOY_CLOUD_DOUBLE_ROUND`、ジアは上下左右の辺が長く四隅の斜辺が短い `JIA_OCTAGONAL_LONG_CARDINAL` に固定する。
+- 少年の雲形は単なる円・楕円・丸角長方形にしない。ジアの八角形は丸みを持たせず、水平・垂直辺は長く、斜辺は短くする。どちらも完全な機械線ではなく、フリーハンドの揺れを許可する。縦書き日本語と横書き英語の安全域は器の内側に別々に取る。
 - 長い台詞は一つの巨大な楕円に詰めない。短い吹き出しを複数のコマへ分配し、沈黙・視線・反応のコマを間に挟む。
 - 吹き出しがないコマにも、視線の目的を一つ置く。少年が何を見るのか、ジアが何を避けるのか、住民が何に無関心なのかを明示する。
 - 画像生成では日本語を描かないが、吹き出しの輪郭と尻尾は描く。吹き出しを後入れする方針は、吹き出し自体を省略する意味ではない。
@@ -113,7 +1049,7 @@
 ### ページ8「最初の会話」
 
 - 上段右: 海辺の二人を含む縦長コマ。ジアを手前、少年を奥へ置き、右上の大きな吹き出しから会話を始める。背景は海面と柱だけの低密度にする。
-- 上段左: 少年の返答を、人物の髪・手元・足元まで含む縦長寄りのコマで受ける。吹き出しは円形にせず、縦書きの列が増やせる大きさにする。
+- 上段左: 少年の返答を、人物の髪・手元・足元まで含む縦長寄りのコマで受ける。吹き出しは `OCTAGONAL_LONG_CARDINAL` の八角形にし、縦書きの列が増やせる大きさにする。
 - 中段: ジアの顔の寄りと少年の顔の寄りを、同じ高さで横に並べず、斜めの境界で接続する。片方は枠を省略し、髪や肩をコマ外へ出す。背景は白地を多く残す。
 - 中段下: 二人の全身を置く細長い縦コマ。少年の竿とジアの腕が上下へ伸び、コマ枠をまたぐ。背景は建物と海の線を細く薄くして人物を前へ出す。
 - 下段右: クジラの知性への少年の反応を、背景の描き込みを一度増やした斜めコマで処理する。右側の吹き出しを先に置く。
@@ -398,6 +1334,8 @@
 - 少年: 「オレさっき鯨カツ食ったぜ。初めてだけど」
 - ジア: 「気にしない。私も食うし」
 
+ページ8の最後で少年が「ここ、いいところ？」と先に問いかけ、ページ9の1コマ目でジアの返答を受ける。台詞を同じコマへ重ねず、ページをめくることで返答を待たせる。
+
 ### 見せないもの
 
 ジアの親であることを説明しない。皿とジアの反応だけで、後から意味が変わる余地を残す。
@@ -652,6 +1590,45 @@
 
 この判定はネーム本文に対するものであり、生成後に `ogurasia-art-review` の `PASS_TO_LETTER` を得るまで絵を採用しない。
 
+#### 編集者レビュー v05（v04 PASS 撤回）
+
+判定：`REJECT_STORYBOARD`
+
+v04は、画像生成へ渡すための幾何条件を満たすかだけを確認しており、読者が漫画として読めるかを確認していなかった。そのため、ネームレビューの `PASS` を撤回する。
+
+主な問題：
+
+- ページ7の「少女になった」から、ページ8の「会話が始まった」への感情の橋がない。二人が何を見て、どちらが沈黙を破るのかが読者に渡っていない。
+- 台詞候補はあるが、発話の順番と反応が断片化している。英語の第一声、日本語で返す理由、クジラへの質問が、会話としてつながっていない。
+- コマ1を人物なしの海景にしたことで、場面転換は示せても「誰がどこで何をしているか」が一度途切れる。ページ8冒頭では、まずページ7の二人を受ける必要がある。
+- コマ6の人物なし余韻は、会話の後に残すべき具体的な反応を消している。ページ9の団地説明へ進む動機も弱い。
+- コマ形状、竿、段間、墨の濃度が、会話の意味より前に置かれている。これらは台詞と演技が成立した後に決める従属条件である。
+
+#### ネーム v05（読者向けの再設計）
+
+ページ7の最後のコマで、少年とジアが海辺で向き合っている状態をそのまま受ける。ページ8では、読者が「少女が話しかけた」「少年は驚きながら返した」「二人は普通に会話を続けてしまった」と順番に理解できることを優先する。
+
+1. **ページ7から受ける二人**。少年は竿を持ったまま、ジアは布を巻き終えた姿で、少し離れて向き合う。二人ともまだ話していない。少年の心の声は入れず、変身を見た直後の沈黙を一拍置く。
+2. **ジアが先に話す**。ジアが英語で「Are you fishing here?」と聞く。少年は言葉の意味より、少女が普通に話しかけてきたことに反応する。ここでジアが会話の主導権を持つ。
+3. **少年が日本語で返す**。少年が「日本語でおk。おれ、母親が渡来人でさ」と返す。読者はここで初めて、少年を日本人だと思っていた自分の見立てを修正する。台詞の後に、ジアが一瞬だけ少年の顔を見る反応を置く。
+4. **会話が成立してしまう**。ジアが「おー、あいしー。あと……」と返し、少年は竿を開きながら、さっきまで海にいた黒い存在を思い出す。少年の行動を一つ挟むことで、変身が説明ではなく会話の背景になる。
+5. **少年の変な質問**。少年が「クジラって賢いとは聞いてたけど、IQヤバいの？」と聞く。ジアは怒らず、少し考えて「賢いのでIQなんて言わないのさ」と返す。異常な状況を、二人だけが日常会話として処理している可笑しさをここで成立させる。
+6. **次ページへの移動**。少年が団地のほうへ視線を向け、「ここ、いいところ？」と聞く。ジアが「わかんない。上陸できないところもあるから、そこよりはいいかも？」と返し、二人が歩き出す。ページ9はこの移動の途中から、ひなげしの説明へ入る。
+
+#### v05の台詞順
+
+```text
+ジア「Are you fishing here?」
+少年「日本語でおk。おれ、母親が渡来人でさ」
+ジア「おー、あいしー。あと……」
+少年「クジラって賢いとは聞いてたけど、IQヤバいの？」
+ジア「賢いのでIQなんて言わないのさ」
+少年「ここ、いいところ？」
+ジア「わかんない。上陸できないところもあるから、そこよりはいいかも？」
+```
+
+この版では、台詞を画像生成用の空吹き出しへ先に変換しない。まず文章ネームとして、発話者、反応、動作、ページをまたぐ目的が読めることを確認する。コマの形状、人物不在、段間、竿の状態は、この台詞順と演技が通った後に再設計する。
+
 #### 絵レビュー v07
 
 判定：`REJECT_LAYOUT`
@@ -689,6 +1666,83 @@ v08も採用候補へ登録しない。ページ8 v04で段間 `S >= 3G` を明�
 
 v09〜v11はいずれも採用候補へ登録しない。全ページ画像からの後付け切り抜き、白塗り、矩形マスクによる救済は、決定論的に見えても連続性を検証できないため禁止する。別コマ素材と明示的マスクを最初から用意した組版だけを例外とする。
 
+#### 絵レビュー v12（文章ネーム v02 対応）
+
+対象画像：`ogurasia-page08-first-dialogue-rough-v12.png`
+
+判定：`REJECT_LAYOUT` + `REJECT_BACKGROUND`（ページ全体を再生成）
+
+| 対象 | 観点 | 実画像で確認した事実 | 修正単位 | 戻り先 |
+|---|---|---|---|---|
+| ページ全体 | 段間 | 上段・中段・下段の段間がネーム指定どおりの広い白い間になっていない。`S/G` は未実測のため合格扱い不可 | `PAGE_REGENERATE` | rough |
+| ページ全体 | 背景モード | 海・雲・団地が均一な薄いグレーの風景として描かれ、`INK_BRUSH` / `DRIP_GAHO` の墨の擦れ・飛沫・溜まりになっていない | `PAGE_REGENERATE` | rough |
+| ページ全体 | 吹き出し形状 | 通常台詞の器が円形で、上下左右の長辺＋短い斜辺の `OCTAGONAL_LONG_CARDINAL` になっていない | `PAGE_REGENERATE` | rough |
+| ページ全体 | コマ数・読む順 | 6コマで順序は読めるが、構造だけ通っても段間と背景契約違反のため不採用 | `PAGE_REGENERATE` | rough |
+| p08-c01〜c04 | 竿の連続性 | c01から展開済みに見え、c04の展開途中へつながらない | `PAGE_REGENERATE` | rough |
+
+ページ全体を再生成する。段間と背景モードはコマ差し替えでは修復できない。v12は比較用の不採用素材として残し、次版では段間の実測値と背景モードを生成前のネームに明記する。
+
+#### 絵レビュー v13（構図維持・吹き出し再試行）
+
+対象画像：`ogurasia-page08-first-dialogue-rough-v13.png`
+
+判定：`REJECT_LETTER`（構図・段間・背景は再確認、吹き出し配置を要再生成）
+
+| 対象 | 確認 | 判定 | 次の処置 |
+|---|---|---|---|
+| ページ全体 | v11系の非対称な6コマ構成を維持 | PASS | 維持 |
+| ページ全体 | コマ間が白地で、黒ベタの段間ではない | PASS | 維持 |
+| ページ全体 | 背景が墨筆・ドリップ画報のみ | PASS | 維持 |
+| p08-c01〜c06 | 話者別の器が台詞順・コマ順と一致していない | REJECT | ページ全体を再生成 |
+
+v13は構図比較用の不採用素材として残す。次版では6コマの各位置を `p08-c01` から `p08-c06` へ明示的に割り当て、吹き出しをそのコマ内へ一つずつ固定する。
+
+#### 絵レビュー v14（背景具体化・器の縦横比修正）
+
+対象画像：`ogurasia-page08-first-dialogue-rough-v14.png`
+
+判定：`REJECT_LETTER`（背景・段間・器の縦横比は確認、コマIDへの器割当を要再生成）
+
+| 対象 | 確認 | 判定 | 次の処置 |
+|---|---|---|---|
+| ページ全体 | 非対称な6コマ構成と白い段間を維持 | PASS | 維持 |
+| ページ全体 | 墨筆・ドリップ画報で海岸、防波堤、町、団地を具体化 | PASS | 維持 |
+| p08-c01〜c06 | 器は正方形・真円に近いが、下段で話者別の器とコマIDの対応が崩れる | REJECT | ページ全体を再生成 |
+
+v14は背景と器の形状確認用の不採用素材として残す。次版ではレイアウトの各領域へ `p08-c01`〜`p08-c06` のラベルを先に割り当て、各コマに指定された器を一つだけ置く。
+
+#### 絵レビュー v15（layout_lock再現ゲート）
+
+対象画像：`ogurasia-page08-first-dialogue-rough-v15.png`
+
+判定：`REJECT_BACKGROUND` + `REJECT_LETTER`
+
+| 対象 | 確認 | 判定 | 次の処置 |
+|---|---|---|---|
+| layout_lock比較 | 6コマの境界、非対称構成、白い段間は再現 | PASS | 維持 |
+| 背景 | 薄いが水彩風の海・町で、墨筆／ドリップ画報の簡略トーンではない | REJECT | roughを再生成 |
+| p08-c01〜c06 | 最上段に少年用の余分な吹き出しがあり、1コマ1発話の割当違反 | REJECT | balloonsを再設計してroughを再生成 |
+
+v15はlayout_lock再現の比較用として保存する。コマ割り自体は変更せず、背景画材と吹き出し割当だけを修正する。
+
+#### レイアウト確定版 p08
+
+- layout_lock: `ogurasia-page08-layout-lock-v01.png`
+- 判定: `PASS`
+- 内容: 人物・背景・吹き出しを入れる前の6コマ枠。上段横長1、中段は大コマ＋右の縦長コマ、下段は大コマ＋右の縦長コマ、最下段横長1。
+- 固定条件: コマ数6、読む順右上→左下、段間は白地、黒ベタ段間は禁止、後続の人物・背景生成でコマ境界を変更しない。
+- 次工程: この画像を参照画像として、まず `blocking`（人物シルエット＋空の吹き出し配置ラフ）を行う。`blocking` 合格後に `acting` / `balloons` / `rough` へ進む。コマ割りが変わった版は即 `REJECT_LAYOUT`。
+
+#### blockingレビュー v01
+
+- 対象画像: `ogurasia-page08-blocking-v01.png`
+- 参照layout_lock: `ogurasia-page08-layout-lock-v01.png`
+- 判定: `REJECT_LETTER`
+- 確認: コマ枠6、白い段間、人物の大まかな位置、竿の状態は再現。
+- 指摘: p08-c01の最上段へ吹き出しが2つ入り、p08-c02の少年用器が混入。1コマ1発話・話者別形状の配置契約違反。
+- 戻り先: `blocking`
+- 次版条件: 各コマの吹き出し数を1つに固定し、p08-c01=ジア八角形、p08-c02=少年雲形、p08-c03=ジア八角形、p08-c04=少年雲形、p08-c05=ジア八角形、p08-c06=少年雲形を位置指定する。
+
 ## 画像対応
 
 - page01: `ogurasia-page01-hinageshi-rough-v03.png`
@@ -698,7 +1752,8 @@ v09〜v11はいずれも採用候補へ登録しない。全ページ画像か�
 - page05: `ogurasia-page05-fishing-point-rough-v02.png`
 - page06: `ogurasia-page06-black-wave-rough-v02.png`
 - page07: `ogurasia-page07-jia-transformation-rough-v02.png`
-- page08: `ogurasia-page08-first-dialogue-rough-v06.png`
+- page08: `ogurasia-page08-first-dialogue-rough-v15.png`（絵レビュー `REJECT_BACKGROUND` + `REJECT_LETTER`、不採用。v12〜v14も比較用に保持）
+- page08-layout-lock: `ogurasia-page08-layout-lock-v01.png`（レイアウト確定版 `PASS`）
 - page09: `ogurasia-page09-explanation-whalecutlet-rough-v02.png`
 - page10: `ogurasia-page10-naming-rough-v02.png`
 
