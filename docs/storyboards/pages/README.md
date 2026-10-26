@@ -44,7 +44,7 @@
 | p05 | 釣り場を探す | rough 採用候補（実験扱い） | [p05.md](p05.md) |
 | p06 | 黒い波 | rough 採用候補（実験扱い） | [p06.md](p06.md) |
 | p07 | 少女になる | rough 採用候補（実験扱い） | [p07.md](p07.md) |
-| p08 | 最初の会話 | acting/balloons PASS、次は rough | [p08.md](p08.md) |
+| p08 | 最初の会話 | blocking v03 / guide_mock v02 PASS、rough v16 REJECT_LAYOUT + REJECT_LETTER + REJECT_BACKGROUND | [p08.md](p08.md) |
 | p09 | ひなげしの説明と鯨カツ | rough 採用候補（実験扱い） | [p09.md](p09.md) |
 | p10 | 名前 | rough 採用候補（実験扱い） | [p10.md](p10.md) |
 
@@ -60,7 +60,10 @@
 - page06: `ogurasia-page06-black-wave-rough-v02.png`
 - page07: `ogurasia-page07-jia-transformation-rough-v02.png`
 - page08-layout-lock: `ogurasia-page08-layout-lock-v01.png`（`PASS`）
-- page08-blocking: `ogurasia-page08-blocking-v02.png`（`PASS`。roughは未生成、詳細は[p08.md](p08.md)）
+- page08-blocking: `ogurasia-page08-blocking-v03.png`（PASS。旧v02は履歴として保持、詳細は[p08.md](p08.md)）
+- page08-guide-mock: `ogurasia-page08-guide-mock-v02.png`（PASS。旧試作v01は履歴として保持）
+- page08-rough-trial: `ogurasia-page08-first-conversation-rough-v16.png`（`REJECT_LAYOUT` + `REJECT_LETTER` + `REJECT_BACKGROUND`。生成ガイド追従試作の失敗例。採用候補ではない）
+- page08-rough-trial-overlay: `ogurasia-page08-rough-v16-layout-overlay.png`（layout_lock / guide_mock とroughの座標差の独立レビュー根拠）
 - page09: `ogurasia-page09-explanation-whalecutlet-rough-v02.png`
 - page10: `ogurasia-page10-naming-rough-v02.png`
 
